@@ -28,12 +28,6 @@ export default class FileScreen extends React.Component {
 		const id = this.props.navigation.getParam('id', null);
 		const documentObj = this.props.screenProps.documentList.find(doc => doc.id === id);
 		const { name, size, type, self } = documentObj;
-		// const source = { uri: `http://localhost:3000${self}` };
-		// return (
-		// <View style={styles.container}>
-		// <Pdf source={source} style={styles.pdf} />
-		// </View>
-		// );
 		return (
 			<View style={styles.container}>
 				<AppBar title={name} goBack={() => this.props.navigation.goBack()}>
