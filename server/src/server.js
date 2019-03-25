@@ -5,11 +5,9 @@ let data = require('./data');
 
 // Purposefully make all requests take 500 to 2500 ms
 app.use(function(req, res, next) {
-	console.log('request');
   setTimeout(
     next,
-	  0
-    // Math.floor((Math.random() * 2000) + 500)
+    Math.floor((Math.random() * 2000) + 500)
     /*
     NOTE: can comment this line above and instead leave a 0
     (essentially no delay) for initial development - but make

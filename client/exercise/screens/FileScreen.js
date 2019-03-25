@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, StyleSheet, Image, Dimensions } from 'react-native';
-import { Text } from 'react-native-paper';
+import { Text, ActivityIndicator } from 'react-native-paper';
 import Pdf from 'react-native-pdf';
 import AppBar from '../components/AppBar';
 
@@ -11,7 +11,11 @@ export default class FileScreen extends React.Component {
 			case 'pdf':
 				return (
 					<View style={styles.pdfContainer}>
-						<Pdf source={source} style={styles.pdf} />
+            <Pdf
+							source={source}
+							style={styles.pdf}
+							activityIndicator={<ActivityIndicator animating={true} />}
+						/>
 					</View>
 				);
 			case 'image':
