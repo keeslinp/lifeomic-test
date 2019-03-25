@@ -23,22 +23,19 @@ export default class MainListScreen extends React.Component {
 	);
 	render() {
 		const { screenProps } = this.props;
-		if (!screenProps.documentList) {
-			return (
-				<View>
-					<AppBar title="Documents" />
-					<ActivityIndicator animating={true} />
-				</View>
-			)
-		}
+		const loading = !screenProps.documentList;
 		return (
 			<View>
 				<AppBar title="Documents" />
-				<FlatList
-					data={screenProps.documentList}
-					keyExtractor={({ id }) => id}
-					renderItem={this.renderItem}
-				/>
+				{loading ?
+					<ActivityIndicator animating />
+					:
+					<FlatList
+						data={screenProps.documentList}
+						keyExtractor={({ id }) => id}
+						renderItem={this.renderItem}
+					/>
+				}
 			</View>
 		);
 	}
