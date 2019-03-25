@@ -4,6 +4,8 @@ See README.md in root directory for full instructions.
 
 # Run instructions
 run `yarn` to install dependencies
+`adb reverse tcp:3000 tcp:3000` to ensure the device can reach the server
+`npm start` in the server directory to start the server
 `yarn run android` to run on android (Have not tested on iOS, I don't have a mac)
 I ran it on a physical device, but in theory it should run just fine on an emulator as well.
 
@@ -41,7 +43,7 @@ data objects. I originally dynamically grabbed the host url because I could not 
 ## Next steps if more time
 
 Obviously, I would implement the goal features if I had more time.
-Beyond those though, I would implement caching to mitigate the slow response time from the server.
+Beyond those though, I would implement caching to mitigate the slow response time from the server. Along that line, I would also add failure handling for network requests.
 From an software architecture standpoint, I would implement either redux or something like redux to allow the app to grow more easily.
 The choice to use state and handle all of the network logic in App.js was simply one of efficiency.
 Taking the time to build out actions, reducerse, and middleware was not worth it for such a simple application.
