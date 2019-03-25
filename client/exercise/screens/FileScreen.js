@@ -6,11 +6,11 @@ import AppBar from '../components/AppBar';
 export default class FileScreen extends React.Component {
 	buildBody = (type, filePath) => {
 		const { api } = this.props.screenProps;
+    const uri = `http://${api}${filePath}`;
 		switch (type) {
 			case 'pdf':
 				return <Text> PDF </Text>;
 			case 'image':
-				const uri = `http://${api}${filePath}`;
 				return <Image source={{ uri }} style={styles.imageStyle} />;
       default:
 				return <Text> Unknown file type </Text>;

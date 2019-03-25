@@ -5,6 +5,7 @@ let data = require('./data');
 
 // Purposefully make all requests take 500 to 2500 ms
 app.use(function(req, res, next) {
+	console.log('request');
   setTimeout(
     next,
 	  0
