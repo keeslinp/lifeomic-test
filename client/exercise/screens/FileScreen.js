@@ -5,8 +5,7 @@ import AppBar from '../components/AppBar';
 
 export default class FileScreen extends React.Component {
 	buildBody = (type, filePath) => {
-		const { api } = this.props.screenProps;
-    const uri = `http://${api}${filePath}`;
+		const uri = `http://localhost:3000${filePath}`;
 		switch (type) {
 			case 'pdf':
 				return <Text> PDF </Text>;
