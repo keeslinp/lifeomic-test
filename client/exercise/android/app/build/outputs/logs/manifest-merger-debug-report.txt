@@ -4,15 +4,21 @@ ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exe
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-pdf] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-pdf/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
 MERGED from [:react-native-vector-icons] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.57.8] /home/pearce/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3e0c32ae90515fa647e169ca93ed1584/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/78366630155e44d2219cdd22ed60a16f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/105fa6daeec830b52b02183547040f36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/70c3063fd1726b49208aed419bea7fd1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ce8c870420bba673bb13f890b7a39961/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e864c7e2bff4ebc091e4a8de843071b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.9.0.aar/7a50478b674e7e40437036ecd3b3b2b4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/105fa6daeec830b52b02183547040f36/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3dac3a3da268d05522deb3938e89e09c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/88c90f5d69a5d7e5be11dfa26a80a8de/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e864c7e2bff4ebc091e4a8de843071b4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c5063325e928f63974961be89a0e9fcd/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:1.10.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1f987f2942216cbf16b5459a9159779a/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/39fd8834935db8cbad5b50a20b8e80dd/AndroidManifest.xml:2:1-9:12
@@ -45,6 +51,8 @@ INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/
 		ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -55,8 +63,14 @@ MERGED from [com.facebook.react:react-native:0.57.8] /home/pearce/.gradle/caches
 		ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
 MERGED from [com.facebook.react:react-native:0.57.8] /home/pearce/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3e0c32ae90515fa647e169ca93ed1584/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.57.8] /home/pearce/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3e0c32ae90515fa647e169ca93ed1584/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:25:5-29:19
 MERGED from [com.facebook.soloader:soloader:0.5.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad4695feb0d6a746243bc1fec2ca4e5e/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad4695feb0d6a746243bc1fec2ca4e5e/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /home/pearce/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a69d274f8c3af4a065f0fd23779309ca/AndroidManifest.xml:2:3-17
@@ -99,6 +113,10 @@ uses-sdk
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-pdf] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-pdf/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pdf] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-pdf/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
@@ -107,16 +125,24 @@ MERGED from [com.facebook.react:react-native:0.57.8] /home/pearce/.gradle/caches
 MERGED from [com.facebook.react:react-native:0.57.8] /home/pearce/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/3e0c32ae90515fa647e169ca93ed1584/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/78366630155e44d2219cdd22ed60a16f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/78366630155e44d2219cdd22ed60a16f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/105fa6daeec830b52b02183547040f36/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/105fa6daeec830b52b02183547040f36/AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/70c3063fd1726b49208aed419bea7fd1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/70c3063fd1726b49208aed419bea7fd1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ce8c870420bba673bb13f890b7a39961/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ce8c870420bba673bb13f890b7a39961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e864c7e2bff4ebc091e4a8de843071b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e864c7e2bff4ebc091e4a8de843071b4/AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.9.0.aar/7a50478b674e7e40437036ecd3b3b2b4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.9.0.aar/7a50478b674e7e40437036ecd3b3b2b4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/105fa6daeec830b52b02183547040f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/105fa6daeec830b52b02183547040f36/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3dac3a3da268d05522deb3938e89e09c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3dac3a3da268d05522deb3938e89e09c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/88c90f5d69a5d7e5be11dfa26a80a8de/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/88c90f5d69a5d7e5be11dfa26a80a8de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e864c7e2bff4ebc091e4a8de843071b4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e864c7e2bff4ebc091e4a8de843071b4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c5063325e928f63974961be89a0e9fcd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c5063325e928f63974961be89a0e9fcd/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:1.10.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1f987f2942216cbf16b5459a9159779a/AndroidManifest.xml:5:5-7:41
@@ -143,6 +169,8 @@ MERGED from [android.arch.core:runtime:1.1.0] /home/pearce/.gradle/caches/transf
 MERGED from [android.arch.core:runtime:1.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/557b7fbb1a74dcdae82befa982d418b1/AndroidManifest.xml:20:5-44
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
@@ -151,8 +179,50 @@ INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/
 		INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:22-78
+provider#android.support.v4.content.FileProvider
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b6f9e71a982db1c776f8f67213d403bc/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/pearce/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9bb92fcf06b67a198b76dd16ef2d2c3e/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /home/pearce/code/js/react-native/lifeomic-mobile-exercise/client/exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
